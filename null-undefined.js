@@ -29,5 +29,5 @@
 
 
 
-let ages = [1, 34, 34, 2];
-console.log(ages[10]);
+// let ages = [1, 34, 34, 2];
+// console.log(ages[10]);
